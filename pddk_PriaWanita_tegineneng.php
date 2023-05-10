@@ -31,7 +31,7 @@
 <body>
     <div class="row">
         <div class="col-sm-12 text-center">
-            <h2><b>Jumlah Pendidikan Pria dan Wanita Kec TEGINENENG</b></h2>
+            <h2><b>Jumlah Penduduk Pria dan Wanita Kec TEGINENENG</b></h2>
             <hr class="hrJudul">
         </div>
     </div>
